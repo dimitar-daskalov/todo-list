@@ -1,3 +1,38 @@
+## Introduction
+
+This project is a simple Todos List build with React.
+
+## Setup
+
+In order to start the project successfully, follow the steps below.
+
+### Clone the project
+
+```bash
+git clone https://github.com/dimitar-daskalov/todo-list.git
+```
+
+### Install the Dependencies
+
+From the project folder, install the dependencies:
+
+    npm i
+
+
+### Start the Server
+
+    npm start
+
+This will launch the app in development mode on port 3000. If that port is busy, you can set a different port in utils/config.json.
+
+Open up your browser and head over to:
+
+http://localhost:3000/
+
+You should see the Todo List page. That confirms that you have set up everything successfully.
+
+---------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
